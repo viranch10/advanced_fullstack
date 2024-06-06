@@ -1,0 +1,5 @@
+To run the app, follow the steps:
+
+1. open terminal to the current directory
+2. npm i
+3. npm start
